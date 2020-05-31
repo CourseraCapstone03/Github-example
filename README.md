@@ -1,2 +1,2 @@
-# Github-example
-This is an coursera assignment.
+# IBM Applied Data Science Capston
+
